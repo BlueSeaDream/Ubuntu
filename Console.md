@@ -1,9 +1,9 @@
 
 
 
-1. ls -a (all files) -l (file details) -d (directory) -lh (details)
-2. mkdir test -p test/test1
-3. cd test (go to test directory) cd .. (upper level directory)
+1. **ls** -a (all files) -l (file details) -d (directory) -lh (details)
+2. __mkdir__ test -p test/test1
+3. __cd__ test (go to test directory) cd .. (upper level directory)
 4. pwd current directory
 5. rm file (remove file) -rf (remove directory)
 6. cp org (original file path) dst (destination file directory) -r (copy directory)
