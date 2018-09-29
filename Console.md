@@ -21,3 +21,4 @@
 18. pushd . (current directory) +/- (bring the N to the top), popd +/- (remove the ordered dir), dirs -v (with order) -c (clear all)
 19. df -h Disk Space Info
 20. pkg-config --cflags opencv Find OpenCV Directory 
+21. scp -r (recursive) username1@source_host:directory1/filename1 username2@destination_host:directory2/filename2
